@@ -1,4 +1,4 @@
-👋 Hi! I’m @Cabrakana
+👋 Hi! I’m Ana Patricia Rivas Ubaldo
 
 💻 A 28-year-old woman transitioning into tech, currently studying Full Stack Development at Tecsup and Make It Real.
 
