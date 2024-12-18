@@ -28,9 +28,26 @@ I’m focused on continuous process improvement and quality. I combine my analyt
 
 | **Project**        | **Description**                     | **Technologies** |
 
-| **📅 [Event Booking Platform]    [ExploryQ](https://github.com/SebastianUrdaneguiBisalaya/App-To-Find-Events)**    | Platform for event bookings, including user profiles, event details, and payment.   | Next.js, Prisma, PostgreSQL, Tailwind |
-| **🔐 [Authentication System]     [Piwis](https://github.com/AnaRiUb/Piwis-appcoursesenrollment)**       | Secure authentication system with JWT, login, sign-up, and role-based access.       | Node.js, Express, PostgreSQL, JWT, Zustand |
-| **🌐 [Movie Streaming App]       [pelisStream](https://github.com/AnaRiUb/pelisStream)**              | A responsive streaming app showing trending and popular movies.                     | JavaScript HTML CSS |
+## 📂 Some projects I've worked on
+
+| **📅 Event Booking Platform** | [**ExploryQ**](https://github.com/SebastianUrdaneguiBisalaya/App-To-Find-Events)  |
+|-----------------------------|-------------------------------------------------------------------------------------|
+| **Description**               | Platform for event bookings, including user profiles, event details, and payment.   |
+| **Technologies**               | Next.js, Prisma, PostgreSQL, Tailwind                                             |
+
+---
+
+| **🔐 Authentication System**  | [**Piwis**](https://github.com/AnaRiUb/Piwis-appcoursesenrollment)                 |
+|-----------------------------|-------------------------------------------------------------------------------------|
+| **Description**               | Secure authentication system with JWT, login, sign-up, and role-based access.      |
+| **Technologies**               | Node.js, Express, PostgreSQL, JWT, Zustand                                         |
+
+---
+
+| **🌐 Movie Streaming App**    | [**pelisStream**](https://github.com/AnaRiUb/pelisStream)                           |
+|-----------------------------|-------------------------------------------------------------------------------------|
+| **Description**               | A responsive streaming app showing trending and popular movies.                    |
+| **Technologies**               | JavaScript, HTML, CSS      
 
 > **🔗 Click on the project names to see more details.**
 
@@ -51,7 +68,7 @@ I’d love to collaborate on **open-source projects** and with teams that encour
 ## 📫 How to reach me
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ana-patricia-rivas-ubaldo-27888930b/).  
-📩 **Email:** ana.patricia.ru@gmaail.com
+📩 **Email:** ana.patricia.ru@gmail.com
 
 ---
 
