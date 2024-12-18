@@ -26,10 +26,6 @@ I’m focused on continuous process improvement and quality. I combine my analyt
 
 ## 📂 Some projects I've worked on
 
-| **Project**        | **Description**                     | **Technologies** |
-
-## 📂 Some projects I've worked on
-
 | **📅 Event Booking Platform** | [**ExploryQ**](https://github.com/SebastianUrdaneguiBisalaya/App-To-Find-Events)  |
 |-----------------------------|-------------------------------------------------------------------------------------|
 | **Description**               | Platform for event bookings, including user profiles, event details, and payment.   |
